@@ -1,0 +1,33 @@
+html { 
+    background: url("elbowroom1.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  h3{
+      margin:0 auto;
+      
+      }
+
+   p{
+       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       font-weight:bold;
+       padding-top:10px;
+   }
+
+  .jumbotron{
+      background: url("elbowroom2.png")  center center;
+      -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+  }
+
+  body{
+      background:beige;
+     
+      
+      
+  }
